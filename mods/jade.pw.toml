@@ -1,6 +1,6 @@
 name = "Jade 🔍"
 filename = "Jade-1.18.2-forge-5.3.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/UEoiUewC/Jade-1.18.2-forge-5.3.1.jar"

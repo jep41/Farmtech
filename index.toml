@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "1b4a1df14154c1e3925478b98ffc2efa065b8da765fe808c0738e892dfd5ed71"
-
-[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "aacd0b03d5149a18fb8a27edfc28cf88a881d4b4403c0ca2f675025ba043eec5"
 metafile = true
@@ -271,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "b8cdd3ab0510e2992c905e46bda90f9c21e6706b0e6b0b86d5a5d2b05a2ab626"
+hash = "9e37ce31f0dde413c55ff149c0a165aff635d480de5458e2f2a92f964f7cd2ee"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "da7df0ef478a2760755cdb092276426649e35f3d01d11e9af4d220f01692c454"
+hash = "603d4db1421c00a0517f1e1b0cb561d254b6bcd76610d0d847bae01880db29fa"
 metafile = true
 
 [[files]]
