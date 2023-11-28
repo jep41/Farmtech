@@ -1,0 +1,13 @@
+name = "Bundled Delight"
+filename = "bundledelight-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A51NxpK3/versions/SIPCw6tO/bundledelight-1.18.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "113f0c84057518cbfa16a587711093ba237f87b0"
+
+[update]
+[update.modrinth]
+mod-id = "A51NxpK3"
+version = "SIPCw6tO"

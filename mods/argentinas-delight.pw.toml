@@ -1,0 +1,13 @@
+name = "Argentina's Delight"
+filename = "Argentina's delight 1.18.2 (3.0 beta).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ICfxIYjs/versions/kE8xSwPc/Argentina%27s%20delight%201.18.2%20%283.0%20beta%29.jar"
+hash-format = "sha1"
+hash = "e3efa1ae9e14ad57c3790cd293f0633ca263ec2d"
+
+[update]
+[update.modrinth]
+mod-id = "ICfxIYjs"
+version = "kE8xSwPc"

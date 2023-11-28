@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "PineappleDelight-Forge-1.18.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/7ChOQZxO/PineappleDelight-Forge-1.18.2-1.0.6.jar"
+hash-format = "sha1"
+hash = "542be3b002dbe7cd8698602926f200d283adc596"
+
+[update]
+[update.modrinth]
+mod-id = "8wXnuOvg"
+version = "7ChOQZxO"

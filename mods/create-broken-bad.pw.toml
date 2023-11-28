@@ -1,0 +1,13 @@
+name = "Create: Broken Bad"
+filename = "createbb-1.18.2-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K5lBzhEk/versions/shGry94v/createbb-1.18.2-1.8.2.jar"
+hash-format = "sha1"
+hash = "c72fcf10990d9c7cb53f4197f0439aef29dac312"
+
+[update]
+[update.modrinth]
+mod-id = "K5lBzhEk"
+version = "shGry94v"
