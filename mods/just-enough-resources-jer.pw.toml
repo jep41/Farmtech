@@ -1,6 +1,6 @@
 name = "Just Enough Resources (JER)"
 filename = "JustEnoughResources-1.18.2-0.14.2.206.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/1oiTtRvR/JustEnoughResources-1.18.2-0.14.2.206.jar"

@@ -1,6 +1,6 @@
 name = "JEI Integration"
 filename = "jeiintegration_1.18.2-9.0.0.37.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/umCLwNyK/versions/9.0.0/jeiintegration_1.18.2-9.0.0.37.jar"
