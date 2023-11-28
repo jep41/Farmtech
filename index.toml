@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "e000c9ef575b94224294fc79ad61ef92103f9410b53b905902a72c040efd724a"
+hash = "9b0c4fa348c5d3dbba877faa84460269777d7b84e57cfa77db1131fedc4f0dca"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "375702a82edfeff66b5baaea82b73ae05cc1e8fc587d42572690f101f28d07fe"
+hash = "1f0d758b552cf0e986eadd2454e160a02c51a4bab3b4937d7dafd7b0dc1fb26b"
 metafile = true
 
 [[files]]
