@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1b4a1df14154c1e3925478b98ffc2efa065b8da765fe808c0738e892dfd5ed71"
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "aacd0b03d5149a18fb8a27edfc28cf88a881d4b4403c0ca2f675025ba043eec5"
 metafile = true
@@ -12,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "6d782ea5149607907b103d5752a0f4f1ca49382495ea26c4090a40a5221bf9ad"
+hash = "7949e1b8c218f3816001e3f1486b024202f257b1f39098322d7bad169227e6ef"
 metafile = true
 
 [[files]]
@@ -277,17 +281,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei-integration.pw.toml"
-hash = "18e3137fe66866fc8500379d9aec357f2f8906e3febc6e67dc85a84713f83378"
+hash = "0edf10ed0b43fbd7be70b94e70b28993a471aad9cc00c7bfec21abc1a7c14b6f"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
+hash = "3763adf24dc8f0d44077cb2e8e6b70ec9cae6a85146a309ac5309a2913d92461"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f47fe58a84e9b5fc7ed703b7eca10c5818243bfb57f11b023f3693c49be48686"
+hash = "d68d9c9e4b2c28592e277ab187faae9682c9d150140d8aae67ddf22ca7db9515"
 metafile = true
 
 [[files]]
@@ -517,12 +521,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3ee0c375f4afd7dbd54957e6ac2c1b2b7c95718055e56ea5d7e4292abd487aa8"
+hash = "68b13abaa380e621bddfc72d741617317ec04b95678d0b9e70dcdf2fc83334a6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2519bd8ff8ca10ed6a94f9c3e4dec79daa9ab43f0cf31a74c93ad517a616d428"
+hash = "86a1102dd4a572384ef68fc184f5e407945798dfce2102b0bb115ee5244492ad"
 metafile = true
 
 [[files]]
