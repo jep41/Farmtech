@@ -320,6 +320,31 @@ hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "3955a2b15298748d5dad7623b32c529b85c4831df0d93e24f2957372e3e258da"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "b2a61ec1cf8cd97c12ee5ca2789f4b52fb7ea7b7b33cb5e7248edfe28ec9c546"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-moresolarpanels.pw.toml"
+hash = "5895b3b94188515e08ac88568ca1ae39017844473fd863e5b1f1c68a592df25d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "af9e853782d0478f0b2cc3375bfccd30d48a1bc5409b9864a15f645015f56b80"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "88f8a91fd486f6a4aadf94fe15598ac21dd0c65e8eebc04e8572aa275c505cbf"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
